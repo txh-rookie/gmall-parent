@@ -37,7 +37,7 @@
         <lombok.version>1.18.10</lombok.version>
     </properties>
 
-    <!--配置dependencyManagement锁定依赖的版本 并不是实际的依赖。-->
+    <!--配置dependencyManagement锁定依赖的版本 并不是实际的依赖。3333-->
     <dependencyManagement>
         <dependencies>
             <dependency>
